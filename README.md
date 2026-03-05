@@ -1,34 +1,22 @@
-Hi there 👋
+I’m Marcel, a physicist working at the intersection of experimental science and data analysis.
 
-I’m Marcel — a physicist transitioning into Data Science.
-My background is in experimental quantum optics, where I worked on semiconductor quantum dots, Franson interferometry, and coherence phenomena. I’m now expanding my skill set toward data analysis, SQL, Python, and applied machine learning.
+My background is in experimental quantum optics, where I worked on semiconductor quantum dots, interferometry, and photon correlation measurements. Much of my work involved building automated measurement systems and developing data analysis pipelines in Python.
 
-🔭 Currently working on
+Currently I am expanding my focus toward data engineering and scalable data analysis workflows.
 
-My PhD thesis on energy–time entanglement in the dressed XX–X cascade
+## Interests
 
-Data analysis workflows in Python (Pandas, NumPy, Matplotlib)
+- Data analysis and scientific computing (Python, NumPy, Pandas)
+- Data pipelines and structured data processing
+- Reproducible research and transparent workflows
+- Quantum technologies and photonics
 
-SQL-based marketplace and logistics analytics (WBS Coding School project)
+## Current work
 
-🌱 Currently learning
+- Finalizing my PhD thesis on energy–time entanglement in semiconductor quantum dots
+- Developing data analysis workflows in Python
+- Exploring SQL-based data processing and data engineering concepts
 
-Data Science (part-time program, WBS Coding School)
-
-Applied statistics and probabilistic modelling
-
-Visualization and dashboarding (Tableau, Power BI)
-
-💡 Interests
-
-Quantum technologies, photonics, and coherent light–matter interaction
-
-Data-driven decision making, analytics for e-commerce and tech
-
-Clean, reproducible research and transparent workflows
-
-📫 How to reach me
-
-GitHub Issues or Discussions
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/marcel-hohn-351487389/)
